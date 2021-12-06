@@ -30,4 +30,4 @@
   
   ##
   
-  ![Snake animation](https://github.com/guicunha/engenny/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/guicunha/guicunha/blob/output/github-contribution-grid-snake.svg)
