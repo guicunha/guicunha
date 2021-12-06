@@ -2,12 +2,12 @@
  
 ![Hacker cat](cover.gif)
 
-### Olá! eu sou a Bia mais conhecida como engenny! 👋
+### Olá! Eu não sou o Goku! 👋
 
-- 🔭 Estagiária de Frontend
-- 🌱 Estudando flutter/Vue.js
-- 🎨 Pintora/Desenhista há 12 anos
-- 🏹 Futura desenvolvedora frontend UI/UX Pleno. 
+- 🔭 
+- 🌱 
+- 🎨 
+- 🏹 
 
 <div align="center">
   <a href="https://github.com/guicunha">
@@ -25,7 +25,6 @@
   <img align="center" alt="bia-graphql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
   <img align="center" alt="bia-jquery" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" />
   <img align="center" alt="bia-figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-  <img align="right" alt="Rafa-pic" height="150" src="https://media.discordapp.net/attachments/814295711968788522/892768045100068905/download20210903103810.png?width=473&height=473" data-canonical-src="https://media.discordapp.net/attachments/814295711968788522/892768045100068905/download20210903103810.png?width=473&height=473" style="max-width: 100%;">
 </div>
   
   ##
